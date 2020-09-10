@@ -1,2 +1,0 @@
-# PowerShell
-Random PS scripts
